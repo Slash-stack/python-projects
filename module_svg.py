@@ -114,3 +114,11 @@ def genere_balise_debut_groupe_transp(niveau_opacite):
     de la même manière que les groupes définissant un style.
     """
     return f"<g opacity='{niveau_opacite}'>"
+
+
+def genere_balise_debut_text(point, font_size):
+    return f"<text x='{point.x}' y='{point.y}' font-family='Verdana' font-size='{font_size}'>"
+
+
+def genere_balise_fin_text():
+    return "</text>"
