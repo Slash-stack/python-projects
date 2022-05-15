@@ -1,0 +1,158 @@
+<svg width='800.0' height='600.0'>
+<g stroke='black' stroke-width='1' fill='green'>
+<g opacity='0.3'>
+<polygon points = '443, 411 604, 353 542, 534 ' />
+<polygon points = '351, 408 506, 481 334, 565 ' />
+<polygon points = '289, 343 347, 504 166, 442 ' />
+<polygon points = '291, 251 218, 406 134, 234 ' />
+<polygon points = '357, 189 196, 247 258, 66 ' />
+<polygon points = '448, 191 293, 118 465, 34 ' />
+<polygon points = '511, 257 452, 96 634, 157 ' />
+<polygon points = '508, 348 581, 193 665, 365 ' />
+</g>
+</g>
+<g stroke='black' stroke-width='1' fill='red'>
+<g opacity='0.3'>
+<polygon points = '478, 413 638, 405 449, 400 ' />
+<polygon points = '375, 435 494, 542 363, 405 ' />
+<polygon points = '287, 378 295, 538 300, 349 ' />
+<polygon points = '264, 275 157, 394 294, 263 ' />
+<polygon points = '322, 187 162, 195 351, 200 ' />
+<polygon points = '424, 164 305, 57 436, 194 ' />
+<polygon points = '513, 222 504, 61 500, 250 ' />
+<polygon points = '535, 324 642, 205 505, 336 ' />
+</g>
+</g>
+<g stroke='black' stroke-width='1' fill='green'>
+<g opacity='0.3'>
+<polygon points = '681, 514 661, 400 574, 300 ' />
+<polygon points = '447, 650 513, 555 523, 423 ' />
+<polygon points = '186, 581 300, 561 400, 474 ' />
+<polygon points = '49, 347 144, 413 276, 423 ' />
+<polygon points = '119, 86 139, 200 226, 300 ' />
+<polygon points = '352, -50 286, 44 276, 176 ' />
+<polygon points = '614, 18 499, 39 399, 126 ' />
+<polygon points = '750, 252 655, 186 523, 176 ' />
+</g>
+</g>
+<g stroke='black' stroke-width='1' fill='green'>
+<g opacity='0.3'>
+<polygon points = '710, 371 411, 328 442, 327 ' />
+<polygon points = '568, 569 387, 327 410, 348 ' />
+<polygon points = '329, 610 372, 311 373, 342 ' />
+<polygon points = '130, 468 372, 287 351, 310 ' />
+<polygon points = '90, 229 389, 272 358, 273 ' />
+<polygon points = '231, 30 412, 272 389, 251 ' />
+<polygon points = '470, -10 428, 289 427, 258 ' />
+<polygon points = '669, 131 427, 312 448, 289 ' />
+</g>
+</g>
+<g stroke='black' stroke-width='1' fill='orange'>
+<g opacity='0.3'>
+<polygon points = '621, 307 451, 404 791, 442 ' />
+<polygon points = '551, 461 362, 409 576, 676 ' />
+<polygon points = '393, 521 296, 351 258, 691 ' />
+<polygon points = '238, 451 290, 262 23, 476 ' />
+<polygon points = '179, 293 349, 196 9, 158 ' />
+<polygon points = '248, 138 437, 190 223, -76 ' />
+<polygon points = '406, 79 504, 248 541, -91 ' />
+<polygon points = '561, 148 509, 337 776, 123 ' />
+</g>
+</g>
+<g stroke='black' stroke-width='1' fill='red'>
+<g opacity='0.3'>
+<polygon points = '454, 538 423, 583 501, 475 ' />
+<polygon points = '269, 506 216, 516 347, 495 ' />
+<polygon points = '162, 354 117, 323 225, 401 ' />
+<polygon points = '193, 169 183, 116 204, 247 ' />
+<polygon points = '346, 62 376, 17 299, 125 ' />
+<polygon points = '530, 93 583, 83 452, 104 ' />
+<polygon points = '638, 245 683, 276 575, 198 ' />
+<polygon points = '606, 430 616, 483 595, 352 ' />
+</g>
+</g>
+<g stroke='black' stroke-width='1' fill='green'>
+<g opacity='0.3'>
+<polygon points = '794, 401 442, 579 761, 566 ' />
+<polygon points = '607, 650 232, 526 467, 743 ' />
+<polygon points = '299, 694 121, 342 134, 661 ' />
+<polygon points = '49, 507 173, 132 -43, 367 ' />
+<polygon points = '6, 199 357, 21 38, 34 ' />
+<polygon points = '192, -50 567, 73 332, -143 ' />
+<polygon points = '500, -94 679, 257 666, -61 ' />
+<polygon points = '750, 92 626, 467 843, 232 ' />
+</g>
+</g>
+<g stroke='black' stroke-width='1' fill='yellow'>
+<g opacity='0.3'>
+<polygon points = '445, 469 635, 486 792, 369 ' />
+<polygon points = '312, 451 434, 597 628, 625 ' />
+<polygon points = '231, 345 214, 535 331, 692 ' />
+<polygon points = '248, 212 102, 334 74, 528 ' />
+<polygon points = '355, 131 164, 114 8, 231 ' />
+<polygon points = '487, 148 365, 2 171, -25 ' />
+<polygon points = '569, 254 586, 64 468, -92 ' />
+<polygon points = '551, 387 697, 265 725, 71 ' />
+</g>
+</g>
+<g stroke='black' stroke-width='1' fill='yellow'>
+<g opacity='0.3'>
+<polygon points = '481, 553 781, 532 736, 509 ' />
+<polygon points = '278, 536 505, 733 489, 685 ' />
+<polygon points = '147, 381 168, 681 191, 636 ' />
+<polygon points = '163, 178 -33, 405 14, 389 ' />
+<polygon points = '319, 47 19, 68 64, 91 ' />
+<polygon points = '521, 63 294, -133 310, -85 ' />
+<polygon points = '653, 218 632, -81 609, -36 ' />
+<polygon points = '636, 421 833, 194 785, 210 ' />
+</g>
+</g>
+<g stroke='black' stroke-width='1' fill='green'>
+<g opacity='0.3'>
+<polygon points = '797, 343 527, 365 437, 584 ' />
+<polygon points = '650, 611 443, 435 225, 526 ' />
+<polygon points = '357, 697 335, 427 116, 337 ' />
+<polygon points = '88, 550 264, 343 173, 125 ' />
+<polygon points = '3, 257 273, 235 362, 16 ' />
+<polygon points = '149, -11 356, 164 574, 73 ' />
+<polygon points = '442, -97 465, 173 684, 262 ' />
+<polygon points = '711, 49 535, 256 626, 474 ' />
+</g>
+</g>
+<g stroke='black' stroke-width='1' fill='red'>
+<g opacity='0.3'>
+<polygon points = '742, 458 668, 598 423, 550 ' />
+<polygon points = '530, 653 378, 700 239, 493 ' />
+<polygon points = '242, 642 102, 568 150, 323 ' />
+<polygon points = '46, 430 0, 278 206, 139 ' />
+<polygon points = '58, 142 131, 2 376, 50 ' />
+<polygon points = '269, -53 421, -100 560, 106 ' />
+<polygon points = '558, -42 698, 31 650, 276 ' />
+<polygon points = '753, 169 800, 321 593, 460 ' />
+</g>
+</g>
+<g stroke='black' stroke-width='1' fill='orange'>
+<g opacity='0.3'>
+<polygon points = '548, 335 785, 504 795, 464 ' />
+<polygon points = '479, 429 527, 716 563, 695 ' />
+<polygon points = '365, 448 196, 685 236, 695 ' />
+<polygon points = '270, 379 -16, 427 4, 463 ' />
+<polygon points = '252, 265 15, 96 5, 136 ' />
+<polygon points = '320, 170 272, -116 236, -95 ' />
+<polygon points = '435, 152 604, -85 563, -95 ' />
+<polygon points = '529, 220 816, 172 795, 136 ' />
+</g>
+</g>
+<g stroke='black' stroke-width='1' fill='red'>
+<g opacity='0.3'>
+<polygon points = '636, 480 795, 355 785, 329 ' />
+<polygon points = '439, 594 640, 618 651, 592 ' />
+<polygon points = '220, 536 345, 695 371, 685 ' />
+<polygon points = '105, 339 81, 540 107, 551 ' />
+<polygon points = '163, 120 5, 245 15, 271 ' />
+<polygon points = '360, 5 159, -18 148, 7 ' />
+<polygon points = '580, 63 454, -95 428, -85 ' />
+<polygon points = '694, 260 718, 59 692, 48 ' />
+</g>
+</g>
+</svg>

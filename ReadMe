@@ -1,0 +1,21 @@
+#Projets Python
+
+Bienvenue dans mes petits projets pour reprendre en main le Python. Dans ce dépôt, vous trouverez les projets suivants :
+
+### Module SVG
+Un module pour générer des images au format SVG. Il contient plusieurs fonctions qui retourne des string destinées à être print dans des fichiers .svg
+
+### Tortue Logo
+Ce module implémente les primitives graphiques basiques d'une tortue logo.
+
+### nirPrfne
+Module d'encodage/décodage par rotation.
+
+### Morpion
+Un jeu de morpion accompagné de trois modules de joueur :
+    - joueur humain : choisit les coups qu'il va faire à travers le prompt
+    - joueur ordi bête : choisit les coups qu'il va faire aléatoirement.
+    - joueur ordi mâlin : TODO
+
+### Convertisseur
+Convertisseur : fichier txt -> image svg
